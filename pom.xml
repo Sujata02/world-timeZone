@@ -31,6 +31,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
+				<objectStoreV2>true</objectStoreV2>
 				<username>AnnieSujata1</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>

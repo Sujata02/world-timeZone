@@ -20,6 +20,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 	"city" : attributes.uriParams.city
 }]]]></http:uri-params>
 		</http:request>
-		<logger level="INFO" doc:name="Logger" doc:id="addc3875-e814-4b01-ba95-7b4bfae18acd" message="completed flow"/>
+		<logger level="INFO" doc:name="Logger" doc:id="addc3875-e814-4b01-ba95-7b4bfae18acd" message="completed flow World-TimeZone"/>
 	</flow>
 </mule>
